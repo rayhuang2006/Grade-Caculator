@@ -19,6 +19,8 @@ civic = int(input("請輸入公民成績："))
 geo = int(input("請輸入地理成績："))
 bio = int(input("請輸入生物成績："))
 his = int(input("請輸入歷史成績："))
+ear = int(input("請輸入地科成績："))
+
 
 #score = str(float((chinese *4 + math *4 + english *4 + civic *2 + geo *2 + his *2)/18)) #一類組
 #score = str(float((chinese *4 + math *4 + english *4 + physics *2 + chemistry *2 + civic *2 + geo *2 + bio *2)/22)) # 高二 三類組下學期 二類組上學期
